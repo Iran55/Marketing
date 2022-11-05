@@ -1,0 +1,42 @@
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    background-color: #191919;
+    color: aliceblue;
+    display: grid;
+    border: 0;
+    justify-content: center;
+  }
+
+  .add{
+    color: aliceblue;
+    text-align: center;
+  }
+  .add input{ 
+   width: 500px;
+   height: 100px;
+  }
+    .table td tr{ 
+    color: aliceblue;
+    text-align: center;
+  }
+
+  .adicionar{
+    text-align: center;
+    align-items: center;
+    color: wheat;
+  }
+
+  .btn {
+    border-radius: 30px;
+    padding: 17px 40px;
+    font-weight: 700;
+    align-items: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 20px 0;
+    align-items: center;
+    text-align: center;
+}
